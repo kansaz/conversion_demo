@@ -1,0 +1,3 @@
+[submodule "external/sharelogic"]
+	path = external/sharelogic
+	url = https://github.com/kansaz/common_library.git
