@@ -1,0 +1,8 @@
+AbtEntryPoint::AbtEntryPoint()
+{
+}
+
+AbtEntryPoint::~AbtEntryPoint()
+{
+
+}
